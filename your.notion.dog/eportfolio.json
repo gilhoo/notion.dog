@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"b8c3a9483aab4f139421a0f62af1ba5a",
+    },
+  
+    "PAGE_TITLE" : "E-Portfolio de Gilles Aerni", 
+    "PAGE_DESCRIPTION" : "E-Portfolio pour le CAS Numérique ",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script async src='https://cdn.splitbee.io/sb.js'></script>"
+}
